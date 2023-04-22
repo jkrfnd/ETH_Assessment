@@ -1,10 +1,10 @@
 # My Token
 
-The main objective of this solidity program is to implement a token contract that enables users to mint and burn tokens. Additionally, the program allows for the tracking of balances associated with specific addresses, and employs conditional statements to ensure that certain processes are carried out only when feasible.
+The implementation of a token contract that allows users to create and burn tokens is the primary goal of this Solidity project. The program also makes use of conditional expressions to make sure that certain actions are only carried out when possible. It also enables the tracking of balances linked to certain addresses.
 
 ## Description
 
-This program is a straightforward contract that utilizes a mapping data structure to maintain a record of the number of tokens owned by a given address. The program features two functions, one to create tokens and another to remove them. Overall, this program serves as a practical simulation, demonstrating the workings of minting and burning tokens.
+This application is a simple contract that uses a mapping data structure to keep track of how many tokens are owned by each address. Two functions—one to add tokens and the other to remove them—are provided by the software. Overall, this application acts as a useful simulation, showing how tokens are minted and burned.
 
 ## Getting Started
 
