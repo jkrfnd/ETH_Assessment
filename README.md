@@ -55,7 +55,7 @@ In the deployment window “Deployed Contracts”, set the parameters for the ba
 
 NTCIAN Jake Denfer
 <br>
-[Discord: @jake denfer](https://discordapp.com/users/jake denfer#9227)
+[Discord: @jake denfer](https://discordapp.com/users/jakedenfer#9227)
 
 ## License
 
