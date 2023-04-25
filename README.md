@@ -19,8 +19,8 @@ Once you are on the Remix website, create a new file by clicking on the "+" icon
 pragma solidity 0.8.18;
 contract MyToken {
     // public variables here
-string public TokenName = "Coin";
-string public TokenAbbrv = "Eth";
+string public TokenName = "EcoCoin";
+string public TokenAbbrv = "ECO";
 uint public  TotalSupply = 0;
 
     /// mapping variable here
